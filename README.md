@@ -46,7 +46,7 @@
 <br></br>
 ### [대표 이미지]
 ---
-![Alt text](/blog/gallery/game.png)
+![Alt text](/gallery/game.png)
 
 <br></br>
 ### [컨셉 대표이미지 기반 작품묘사]
@@ -55,15 +55,15 @@
 
     - 전체적으로 화면을 어둡게 구성하고, 무서운 BGM을 추가해 플레이어가 느끼는 공포감을 극대화 해줍니다.
     - Enemy의 스토리를 통해 긴장감을 부여합니다.
-![Alt text](/blog/gallery/enemy1.png)
-![Alt text](/blog/gallery/enemy2.png)
+![Alt text](/gallery/enemy1.png)
+![Alt text](/gallery/enemy2.png)
 
 게임 화면 :
 
     - 중앙 하단에 현재 플레이어가 소지한 아이템이 표시됩니다. 
     - 왼쪽 하단에는 플레이어의 체력을 나타내주는 HP바와 이동속도를 제한해주는 SP바가 표시됩니다.
     - 마우스를 이동하여 플레이어의 시야를 변경할 수 있습니다.
-![Alt text](/blog/gallery/school1.png)
+![Alt text](/gallery/school1.png)
 
 <br></br>
 ### [구성 요소]
@@ -84,12 +84,12 @@
 <br></br>
 ### [게임 시스템 디자인]
 ---
-![Alt text](/blog/gallery/school2.png)
-![Alt text](/blog/gallery/school3.png)
-![Alt text](/blog/gallery/school4.png)
-![Alt text](/blog/gallery/school5.png)
-![Alt text](/blog/gallery/school6.png)
-![Alt text](/blog/gallery/school7.png)
+![Alt text](/gallery/school2.png)
+![Alt text](/gallery/school3.png)
+![Alt text](/gallery/school4.png)
+![Alt text](/gallery/school5.png)
+![Alt text](/gallery/school6.png)
+![Alt text](/gallery/school7.png)
 
 <br></br>
 ### [개발 요구사항 현황]
